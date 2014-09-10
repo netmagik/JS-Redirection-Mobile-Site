@@ -1,3 +1,5 @@
+Test
+
 # JS Mobile Redirection
 
 redirection_mobile.js is a utility script that covers a basic scenario for redirecting your website to a mobile verison through JavaScript.
